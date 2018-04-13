@@ -7,6 +7,9 @@
     tools:context="com.luisro00005513.tarealabo4.MainActivity"
     android:orientation="vertical">
 
+
+    <!--=====mando a llamar al fragment_menu_planetas (es la unica coneccion que tengo
+    con el main y el fragment, no se si estara bueno solo asi)-->
     <fragment
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

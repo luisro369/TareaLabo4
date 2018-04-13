@@ -6,6 +6,9 @@
     android:layout_height="match_parent"
     tools:context="com.luisro00005513.tarealabo4.Main2Activity">
 
+
+    <!--=====mando a llamar al fragment_planetas (es la unica coneccion que tengo
+   con el main 2 y el fragment 2, no se si estara bueno solo asi)-->
     <fragment
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
