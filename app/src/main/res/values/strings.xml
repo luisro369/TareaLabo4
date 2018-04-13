@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tarea Labo 4</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="mercurio">Mercurio</string>
+    <string name="venus">Venus</string>
+    <string name="tierra">Tierra</string>
+    <string name="marte">Marte</string>
+    <string name="jupiter">Jupiter</string>
+    <string name="saturno">Saturno</string>
+    <string name="urano">Urano</string>
+    <string name="neptuno">Neptuno</string>
+    <string name="pluton">Pluton</string>
+
+
+</resources>
